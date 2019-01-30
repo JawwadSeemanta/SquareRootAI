@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="AILab01">
+    <output-path>$PROJECT_DIR$/out/artifacts/AILab01</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="AISquareRoot.Main" />
+        <option name="description" value="This is a lab experiment done for course CSE 714 of Dept of CSE, Chittagong University" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="title" value="SquareRootAI" />
+        <option name="vendor" value="JawwadSeemanta" />
+        <option name="version" value="1.0" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="AILab01.jar">
+        <element id="module-output" name="AILab01" />
+      </element>
+    </root>
+  </artifact>
+</component>

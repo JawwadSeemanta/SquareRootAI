@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: C:\Users\Jawwad\Desktop\AI\AILab01\src\
+Main-Class: AISquareRoot.Main
+
