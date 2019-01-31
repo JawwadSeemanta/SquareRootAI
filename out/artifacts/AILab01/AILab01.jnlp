@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="AILab01.jnlp">
+    <information>
+        <title>SquareRootAI</title>
+        <vendor>JawwadSeemanta</vendor>
+        <description>This is a lab experiment done for course CSE 714 of Dept of CSE, Chittagong University</description>
+        <offline-allowed/>
+    </information>
+    <update check="background"/>
+    <resources>
+        <j2se version="10+" href="http://java.sun.com/products/autodl/j2se"/>
+        <jar href="AILab01.jar" size="4554" download="eager"/>
+    </resources>
+    <jfx:javafx-desc width="600" height="400" main-class="AISquareRoot.Main" name="Main"/>
+</jnlp>
+
